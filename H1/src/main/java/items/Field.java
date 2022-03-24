@@ -21,33 +21,16 @@ public class Field {
         this.operator = operator;
     }
 
-
-    public String getField() {
-        return field;
-    }
-
     public String getOperator() {
         return operator;
-    }
-
-    public String getValue() {
-        return stringValue;
     }
 
     public void setValue(String value) {
         this.stringValue = value;
     }
 
-    public Double getNumericalValue() {
-        return numericalValue;
-    }
-
     public void setNumericalValue(Double numericalValue) {
         this.numericalValue = numericalValue;
-    }
-
-    public Date getDateValue() {
-        return dateValue;
     }
 
     public void setDateValue(Date dateValue) {

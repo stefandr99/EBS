@@ -1,5 +1,2 @@
-{(company,"Google");(value,2.9319484125458795);(drop,0.4353104626891293);(variation,4.10037578121741);(date,Thu Mar 24 17:09:51 EET 2022)}
-{(company,"Tesla");(value,1.0880542935946307);(drop,0.46770344456321744);(variation,3.486815152659472);(date,Thu Mar 24 17:11:51 EET 2022)}
-{(company,"UIPath");(value,2.080090591537383);(drop,0.32134171519786614);(variation,5.040274501108002);(date,Thu Mar 24 17:09:51 EET 2022)}
-{(company,"UIPath");(value,2.9231518543697184);(drop,0.47665059104176655);(variation,2.784881351215375);(date,Thu Mar 24 17:10:51 EET 2022)}
-{(company,"Google");(value,2.9109181408852556);(drop,0.3999297226951398);(variation,4.57868738127381);(date,Thu Mar 24 17:09:51 EET 2022)}
+{(company,"Tesla");(value,2.238528147025063);(drop,0.2252573609373259);(variation,4.656339103899384);(date,Thu Mar 24 17:24:20 EET 2022)}
+{(company,"Google");(value,0.6947321023675829);(drop,0.38596061515062374);(variation,5.724745810773564);(date,Thu Mar 24 17:23:20 EET 2022)}

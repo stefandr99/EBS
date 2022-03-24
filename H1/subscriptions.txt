@@ -1,10 +1,1000 @@
-{ (company, =, Google); (value, <, 6.499089053825571); (variation, >=, 3.1088165001613213); (date, >=, Thu Mar 24 17:09:51 EET 2022); }
-{ (company, =, Google); (drop, >, -2.7291641254417787); (variation, <, 5.191392280457787); }
-{ (company, =, Google); (drop, =, 0.4353104626891293); (date, <=, Thu Mar 24 17:27:51 EET 2022); }
-{ (company, =, Google); (variation, >, 0.8078031913901751); (date, <=, Thu Mar 24 17:13:51 EET 2022); }
-{ (company, =, Google); (variation, >, 0.8723588198821361); (date, <=, Thu Mar 24 17:18:51 EET 2022); }
-{ (company, !=, UIPath); (variation, >, 0.46849771093716663); (date, <=, Thu Mar 24 17:33:51 EET 2022); }
-{ (company, !=, Apple); (variation, >, 2.906574239871511); (date, <=, Thu Mar 24 17:16:51 EET 2022); }
-{ (company, !=, UIPath); (variation, >, -0.20152287723360374); (date, <, Thu Mar 24 17:29:51 EET 2022); }
-{ (company, !=, UIPath); (variation, <, 6.266324670072058); (date, =, Thu Mar 24 17:09:51 EET 2022); }
-{ (value, !=, -0.49539034550019334); (variation, >=, 0.33577678920819); (date, =, Thu Mar 24 17:09:51 EET 2022); }
+{ (company, =, Tesla); (value, <=, 6.640578570304149); (variation, !=, 4.432272408272774); (date, <, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (value, >, 1.5016238189693514); (variation, !=, 2.059685675657409); (date, >=, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -0.539701107787951); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, !=, 0.027078683670838544); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, !=, 1.5389412453173712); (date, >=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -0.45788611987730876); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 6.857152252620038); (variation, <, 6.53621963346389); (date, >, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 2.1318163233977865); (variation, <=, 9.590454805506104); (date, >, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -0.7590776033091768); (variation, <, 5.693121157867493); (date, >, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, =, Tesla); (value, >, 0.6351789912006789); (variation, <=, 8.981141915397693); (date, <, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 6.60806195071801); (variation, >=, 3.3316930264621156); (date, !=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, <, 7.099133729899824); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -1.8940400487200817); (variation, !=, 0.35376660941630433); (date, >=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:21:20 EET 2022); }
+{ (company, =, Tesla); (value, >, 1.1943361617773813); (variation, <=, 8.01745175024832); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 4.530664285835679); (variation, <=, 9.049604252203373); (date, !=, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 6.681944321209289); (variation, <=, 9.384370919126459); (date, >, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 3.577267758733604); (variation, !=, 0.5853956250223318); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 2.123734456217673); (variation, !=, 3.7540291497700586); (date, >, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, =, Tesla); (value, >, 0.21542084900369218); (variation, !=, 1.5290062257669605); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 6.656449869838465); (variation, <, 7.260762052428914); (date, !=, Thu Mar 24 17:14:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 5.393100321537364); (variation, <, 9.095101408041709); (date, >, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -1.8093218236425725); (variation, <, 6.506827025218829); (date, >=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 6.159123238861991); (variation, <, 8.155742485337376); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 2.188203498887839); (variation, <=, 9.591439710892768); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:05:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 3.325086786052845); (variation, <=, 7.234360230353879); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 1.0931260746118392); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 6.09508721237559); (variation, <, 4.7004472983766075); (date, <, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, >=, 1.7574894069501399); (date, !=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 1.8343534610206325); (variation, <=, 9.181262223270558); (date, !=, Thu Mar 24 17:03:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 0.3724320647517194); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -0.8901640758669576); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 6.782265822188233); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:01:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 3.7051096402077643); (variation, <, 7.0699071442327766); (date, !=, Thu Mar 24 17:21:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 1.7603085280707673); (variation, >=, -0.14646459129142642); (date, >, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -2.626887007188895); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 4.690545477289154); (variation, <, 5.722627625080148); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 5.883093558376103); (variation, !=, 4.442032119632733); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, <=, 6.108582398010075); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 3.2978118285316205); (variation, <, 6.428858868393479); (date, >, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, <=, 6.6626746752265); (date, >=, Thu Mar 24 16:59:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, 0.10447693297415928); (variation, <=, 8.754794130999748); (date, !=, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -0.5153922499468493); (variation, <=, 4.889083505911571); (date, <, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 3.518377195955986); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, <=, 8.216820385085171); (date, <, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -0.6025886076309801); (variation, <=, 7.391964327130989); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -1.166046221782187); (variation, !=, 4.033072992608046); (date, >=, Thu Mar 24 17:10:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -2.110551589650589); (variation, <, 4.890291227435264); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -0.47660936098157514); (variation, !=, 1.3148990132531808); (date, >=, Thu Mar 24 17:08:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 4.412005837007412); (variation, <, 4.769430945257276); (date, >, Thu Mar 24 17:23:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 5.8207403022761195); (variation, <=, 7.474577368360084); (date, !=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 5.001209706141127); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 7.2216548961722395); (variation, >=, 0.6535698095563633); (date, >, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -1.917225405087505); (variation, <, 9.3853822736507); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, >, 0.6216815324201483); (variation, !=, 2.09204251319009); (date, >=, Thu Mar 24 17:23:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, <, 4.83417759113369); (date, >, Thu Mar 24 17:14:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 3.4489188801833297); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, =, Tesla); (value, >, -1.751729879617204); (variation, <, 7.072593565590729); (date, !=, Thu Mar 24 17:01:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 4.910912174657005); (variation, <=, 8.45276829323214); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <=, 4.287000382861301); (variation, <, 4.885585995257131); (date, <, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 3.0500740182972663); (variation, !=, 1.3351954963783768); (date, >=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, =, Tesla); (value, >=, -1.3818493638861695); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:01:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 3.0255796737465133); (variation, <=, 8.785692711380694); (date, <, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, >=, 3.4491202320706167); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, >=, 2.1011189295459283); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, <, 4.106591021783858); (variation, <, 6.393525859181617); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (value, =, 2.238528147025063); (variation, <, 8.581113540341935); (date, >=, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.641947459404697); (variation, <, 8.460009217817253); (date, !=, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.1521963065305145); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:10:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.278851559585259); (variation, !=, 1.2008148363238433); (date, >, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.4072561184072883); (variation, !=, -0.07152820109519187); (date, >=, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.677983200778458); (variation, >=, 3.4299132593614368); (date, <, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.1770344848197993); (variation, <=, 6.325892190888993); (date, <, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.694701509422646); (variation, <, 5.06193762228498); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.4189093630743117); (variation, >=, 0.02765519311482123); (date, <, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -4.400466410792648); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.431792671236548); (variation, !=, -0.21247691719846085); (date, >=, Thu Mar 24 17:08:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -4.0294481690992265); (variation, >=, 4.29029636967581); (date, <, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.11581119866407874); (variation, <, 6.573728454215894); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.3281571669073362); (variation, <=, 7.708325331660899); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.1303773419684562); (variation, <=, 5.054970391471397); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -4.275502555679534); (variation, >=, 3.4362885088815114); (date, !=, Thu Mar 24 17:23:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.9501466761906907); (variation, <, 5.035170542097328); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.797279980466494); (variation, <, 5.580969289616235); (date, >=, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.643360672109953); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.884150665222076); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.6339885209485794); (variation, <, 5.328442323854745); (date, >, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.6370750715281992); (variation, >=, 0.7099547624896179); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.5054206411367825); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -4.3244596718151085); (variation, !=, 2.048991608723303); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.1797503830722027); (variation, <, 8.163259586574714); (date, >=, Thu Mar 24 16:59:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, 0.0017131927274510184); (variation, !=, 4.495654769665824); (date, >, Thu Mar 24 17:06:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.8938572923784693); (variation, <, 5.900859622192396); (date, !=, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.7587130521173875); (variation, !=, 4.559058024280805); (date, >, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.77051989639342); (variation, <, 6.582781186554869); (date, !=, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.591291583349662); (variation, !=, 1.9901562798424095); (date, >=, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.674042204636177); (variation, >=, 3.0722094256443553); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.765542911083645); (variation, !=, 1.7036820095721188); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.772745317352351); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.2672331985678242); (variation, !=, 3.8891526856878063); (date, !=, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.793000035397932); (variation, !=, 1.7822833095517465); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.087815248494753); (variation, !=, 0.6687761067541964); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.037061309012843); (variation, !=, 4.523020589948648); (date, <, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.11814644352303749); (variation, <, 6.956543878286064); (date, >=, Thu Mar 24 17:03:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.0611044348279886); (variation, <, 8.150026350171895); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.8891521345806432); (variation, <, 9.115450295948587); (date, <, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.594784650523507); (variation, <=, 8.230927132525741); (date, !=, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.8005867373840503); (variation, <, 8.179014167003503); (date, >, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.1440790519302864); (variation, !=, 2.6988769926804714); (date, >=, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -4.440736395097619); (variation, >=, 1.8992942886342115); (date, >, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.467800963666408); (variation, <=, 6.55901431992172); (date, !=, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.9417755416435414); (variation, !=, 1.1707490571002253); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -4.443158617077222); (variation, <, 8.223246817863554); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.8787460594552683); (variation, !=, 0.7474246999180889); (date, >, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, 0.011819856821087521); (variation, !=, 3.7504400809156344); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.3976819665379681); (variation, !=, -0.06619463318542795); (date, >=, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -3.150348084413867); (variation, <=, 5.149284562201217); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -0.4924063101730946); (variation, <, 9.115715337470043); (date, <, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -1.5109254453484755); (variation, >=, 0.40159489676500115); (date, >, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.718825561432639); (variation, !=, 0.32948835552024125); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.498253980690157); (variation, !=, 0.525704613304244); (date, >=, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, =, Tesla); (drop, >, -2.063219742112587); (variation, !=, 4.166685354671105); }
+{ (company, =, Tesla); (drop, >, -2.018754294795945); (variation, !=, 1.2591063387813666); }
+{ (company, =, Tesla); (drop, >, -3.401877199389254); (variation, >=, 1.2394769593987078); }
+{ (company, =, Tesla); (drop, >, -3.6799228808304005); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -0.8674515824574072); (variation, >=, 0.6151921745194153); }
+{ (company, =, Tesla); (drop, >, -4.131746550292506); (variation, <, 8.953479775752285); }
+{ (company, =, Tesla); (drop, >, -2.2233648614020307); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -4.393532596330753); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -1.226398370834571); (variation, <=, 4.704112195943819); }
+{ (company, =, Tesla); (drop, >, -3.677069378440067); (variation, <=, 7.594073781784053); }
+{ (company, =, Tesla); (drop, >, -4.585967697150583); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -4.149616641643925); (variation, <=, 9.494971147587131); }
+{ (company, =, Tesla); (drop, >, -0.08235370208142928); (variation, >=, 4.0435848484565735); }
+{ (company, =, Tesla); (drop, >, -1.8147961268032549); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -0.06798245646422801); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, 0.015211618558265139); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -4.5825151864812534); (variation, >=, 4.265687352125194); }
+{ (company, =, Tesla); (drop, >, -1.0050881422877698); (variation, <=, 6.9777641577141925); }
+{ (company, =, Tesla); (drop, >, -1.7825945226999753); (variation, <=, 9.090024178648054); }
+{ (company, =, Tesla); (drop, >, -0.035642899800753025); (variation, <=, 7.347076899971226); }
+{ (company, =, Tesla); (drop, >, -2.5183373176010213); (variation, >=, 2.502911055021919); }
+{ (company, =, Tesla); (drop, >, -3.9496910773435316); (variation, <=, 6.10635227717218); }
+{ (company, =, Tesla); (drop, >, -3.335568546536559); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -1.889671254986827); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -0.2540381711804726); (variation, !=, 2.974528451196063); }
+{ (company, =, Tesla); (drop, >, -1.5868206066719774); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -4.467892637772053); (variation, <, 6.911357355100753); }
+{ (company, =, Tesla); (drop, >, -3.096615137016889); (variation, <, 7.898426168157896); }
+{ (company, =, Tesla); (drop, >, -0.10510412345836928); (variation, <, 5.321371808741797); }
+{ (company, =, Tesla); (drop, >, -1.8730755995398378); (variation, !=, 3.249118492760127); }
+{ (company, =, Tesla); (drop, >, -2.0237664132917117); (variation, !=, 2.569096038163997); }
+{ (company, =, Tesla); (drop, >, -3.553714304077675); (variation, >=, 3.030121139319302); }
+{ (company, =, Tesla); (drop, >, -3.1957158889769652); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -1.0790114039426424); (variation, !=, 0.6928647518975457); }
+{ (company, =, Tesla); (drop, >, -2.7641213084964784); (variation, <, 6.5767424666809715); }
+{ (company, =, Tesla); (drop, >, -2.9117726068820913); (variation, <, 5.820313393840559); }
+{ (company, =, Tesla); (drop, >, -1.2230308750414334); (variation, <, 8.957808499224317); }
+{ (company, =, Tesla); (drop, >, -2.516443226595912); (variation, <, 4.711514843236054); }
+{ (company, =, Tesla); (drop, >, -0.13159020927517096); (variation, <, 7.872790105633118); }
+{ (company, =, Tesla); (drop, >, -1.0658658589050374); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -0.20620760166843566); (variation, <, 7.036668676922785); }
+{ (company, =, Tesla); (drop, >, -0.49542331673311907); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -2.294516779855665); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -1.1448625974669357); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >, -1.9989490061027282); (variation, <=, 9.645560448089597); }
+{ (company, =, Tesla); (drop, >, -3.4071444435345843); (variation, >=, 4.35520825622637); }
+{ (company, =, Tesla); (drop, >, 0.13480075871100078); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (variation, <=, 6.334552529609788); }
+{ (company, =, Tesla); (drop, <=, 4.646679902937422); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (variation, !=, 2.1818429249329645); }
+{ (company, =, Tesla); (drop, >=, -2.031111436560344); (variation, <, 5.408406823215495); }
+{ (company, =, Tesla); (drop, >=, 0.19559590439146257); (variation, !=, 4.565226689597602); }
+{ (company, =, Tesla); (drop, >=, -0.5773848563528055); (variation, >=, 2.233037146090877); }
+{ (company, =, Tesla); (drop, <, 3.7526859969409565); (variation, !=, 1.4845428453751177); }
+{ (company, =, Tesla); (drop, >=, -0.9791345805502056); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, !=, -1.0724300820958024); (variation, <, 5.811076131253246); }
+{ (company, =, Tesla); (drop, <, 4.256706317282008); (variation, <=, 8.395181598190304); }
+{ (company, =, Tesla); (drop, >=, -1.571394574025772); (variation, !=, 0.4825911814488659); }
+{ (company, =, Tesla); (drop, <, 2.1528371758439104); (variation, <=, 8.883885434508727); }
+{ (company, =, Tesla); (drop, >=, -4.614416935060309); (variation, >=, 4.296780697670271); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, <=, 2.943053617053015); (variation, <=, 5.398563866818171); }
+{ (company, =, Tesla); (drop, !=, -3.5796831034612633); (variation, !=, -0.24750660169480376); }
+{ (company, =, Tesla); (drop, !=, -2.062599222221267); (variation, <=, 9.159957784736982); }
+{ (company, =, Tesla); (drop, >=, -3.3063963052572656); (variation, <, 5.539981518279456); }
+{ (company, =, Tesla); (drop, <, 2.4592202371618583); (variation, !=, 0.7345573679328763); }
+{ (company, =, Tesla); (drop, !=, -0.4501238985904659); (variation, <=, 8.901239865609767); }
+{ (company, =, Tesla); (drop, !=, -0.8195064634972751); (variation, <=, 5.672777349997195); }
+{ (company, =, Tesla); (drop, >=, -1.131040531342875); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, <, 1.0565247059657925); (variation, <, 6.773765888341952); }
+{ (company, =, Tesla); (drop, >=, -3.440061278896071); (variation, =, 4.656339103899384); }
+{ (company, =, Tesla); (drop, >=, -2.2370227150497763); (variation, <, 6.591599643170888); }
+{ (company, =, Tesla); (drop, <, 2.032050947617504); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -0.7575935452540628); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -3.4468950501602182); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 3.599882467737279); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 5.172167569864999); (date, <=, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 3.3998550622008277); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 3.3141194999137964); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -1.898436318682661); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -2.3677612874480505); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -3.515135423532567); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -4.4219428230664395); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -1.428473738144718); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.36112570450005393); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.7505992276599449); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.06836625362379017); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 2.4664080760316116); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -1.5701584288552881); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -3.764732274314236); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -1.4548005669335777); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -1.0349864367021135); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.4450737201838962); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 1.801012793398122); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 1.949653288804706); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.3349839490439513); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -3.309010003458386); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 1.462341580487897); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 0.7335370358152338); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 4.157481265909724); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -3.1315176661210615); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -4.513179290644535); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.41682901339048145); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -4.1197992868047555); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 0.3465340092617045); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 3.0145887990048994); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 1.7981615926898868); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 1.2781452196165848); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 0.5394040806576202); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 4.292980619265946); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -2.5007595490269); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 0.9793743051012807); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 3.013280655989991); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 4.935677345082558); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 4.313395254874693); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 4.803608024673622); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.8930144753259404); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 1.9355577723861879); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -4.356576577827448); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 2.5534640779328317); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 0.38528481412054055); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 1.0935010915441576); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 3.2970351207406137); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -2.297064609487205); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 2.968770842912606); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 5.189800218129925); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 0.4123059418686573); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (drop, !=, -3.4782743139427437); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 4.971760066698999); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (drop, =, 0.2252573609373259); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.7539485489677034); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 2.2922743097921168); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -3.298914691847742); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -0.6348744789043812); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (drop, >=, -3.3813617147351613); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (drop, <=, 2.7805671535980823); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 4.186261029491019); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (drop, <, 1.6876006036501605); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.3865372242618075); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.513470437385599); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.600607382609549); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.2930679649998158); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.3130434959171575); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.7000535955369833); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.9188670210813372); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.300128145706982); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.1076855535743326); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.451511945490059); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.8106672813291964); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.0869556824311655); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.842147728002713); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.1932748879854747); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.752929947490779); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.943965273084196); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.280535639637649); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.592773019248507); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.137512494585638); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.5344261249244115); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.26150683414654985); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.774767866341635); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.482571054140366); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.202489517061678); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.5522631749990006); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.5417978970466217); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.10803405353831241); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.2624402011260791); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.751737882455184); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.17461597402918372); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.22643795595181704); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.378428859371824); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.3791188836937334); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.432511670091679); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.44736601673270115); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.722356438345627); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.651702608808919); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.8023465190511132); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.6350576238164862); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.9525442138709077); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.9530031823840415); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.090145198769576); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.16127039983497493); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.3273651417057506); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.6380229390679273); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.15888315490093774); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.19539540611587025); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.4161011779700567); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.2676434923692597); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.2757484811882893); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.8218775550714281); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.433952500761419); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.7382035451837661); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.1953629254730025); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.5736997201790066); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.7293452886349705); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.6955078709421851); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.8817595502277928); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.6517833798869708); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.3694666973727503); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.16525613249086746); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.3371285507988615); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.06125315757877381); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.8443018236281348); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.31908548899140055); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.4215105315874914); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.311900435536754); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.23035656289171236); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.2801212734415004); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.586722651197738); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.5458159864075451); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.4627199060125902); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.9126695937791216); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.8242222862174677); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.9087276228990615); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.0781519757111617); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.9050308705004197); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.2307013422776887); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.509579985510358); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.017517712803395646); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.24327329790254737); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.9543263339343171); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.468368944670557); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.8627571792689692); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.414761822232654); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.026268144273888794); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.0923128060435); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.3582997857919574); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.001813052621916); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.29262403305348794); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.414347641683367); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.0651265461613102); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.06109497865539204); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.035167944739245); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.7884575432271412); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.33501112553243); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.1918094444744014); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.10120613426195657); (date, <=, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.3384299983751413); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.013894451777041); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.969603417016369); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.105799788622859); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.05277114361327673); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.17430986354821); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.8264084340345965); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.034581150348373); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.938718131861234); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.3530278536473053); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.6947396264076335); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.8349731592305125); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.682555121947989); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.93821606643584); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.0583493021864712); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.2834590425471117); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.2417700194738472); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.9900735001710652); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.3124079898147052); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.580772742030114); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.536978547585651); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.9251152061657493); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.357354610374583); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.1301339544620577); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.4080026216263546); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.6570681790187272); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.7436926923473206); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.488465973136235); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 4.01900119283055); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.7666842755060266); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.6552329226610665); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.5869118622938054); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.8121379535387137); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.8586852301184584); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.9207599338544936); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.0149016530661688); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.2620930523039897); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.386524434840722); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.0788325913819348); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.481529288931935); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.1429490408557044); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.8246839861426811); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.088759041144825); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.5690587690972464); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.0729516384383775); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.26617895483554666); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.2251895658822205); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.096006905824186); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 2.779062898670918); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.3237643743518648); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.3271623588035553); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.9314419805088439); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.6811359863886981); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.9978524439434615); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, -0.24627036463620122); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.3378848022169434); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.590080183011221); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.0781939978852555); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 3.8267933068125544); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.5575179716994758); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.0646105584624479); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.8216653815315103); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.04712015100049616); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 1.9752833572140558); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, =, Tesla); (variation, >, 0.034767278693914605); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.031881967336858); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.9461357607308005); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.15711269427904195); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.22427963993682276); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.585740147858652); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.9536333879412866); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.38973638271320343); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.0705796918649915); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.4354646253816874); (date, <=, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.604492657056228); (date, <=, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.120389515167762); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.000196553793184); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.14503628395638746); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.1429245485935438); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.9332407329156176); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.421275225153696); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.7614777236173862); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.2168757541533757); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.9218343155788737); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.3815041815741806); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.5047319621927753); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.0083961598939952); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.12153158356438265); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.04187264358801457); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.8935836800551509); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.7180103194619396); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.6795553770463796); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.4618531876990852); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.2745017789891371); (date, <=, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.3924340573863634); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.4035858900249316); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.8627163540181764); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.9771244421805672); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.5253361156946985); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.03451811857288156); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.097879426892473); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.529611800095167); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.6902701248484924); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.2656266814734543); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.346902248516812); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.8105412902106712); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.4033893861998443); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.967923445748484); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.7015060407077751); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.6246940772872516); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.931103171472052); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.0288620578798082); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.14782489989728); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.167232388856011); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.614446951947414); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.8487624866744041); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.128989990240513); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.20449553888084182); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.267612284280465); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.947114659966255); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.0561018174947705); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.0499188773072836); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.8128164139252982); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.02374909213352172); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.6736643143776324); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.10043056754725033); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.037494521107297); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.9914616403727887); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.0776343193189417); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.22791203648367464); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.5126543541508752); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.3511060402094488); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.33038160795178584); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.01631673416755408); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.363159757506485); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.4972715945721915); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.197061658182628); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.343586154730042); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.211695971407773); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.7960995565722122); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.4421682108470968); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.6581824948634614); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.908215631090153); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.5570208928809728); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.2833665823146747); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.679929789103146); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.345779346157726); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.4718375255940974); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.332096201096331); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.7692672507360303); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.171875879984557); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.9578346316678914); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.096891087230093); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.38740581445631506); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.8315452054276107); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, -0.02607582636266681); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.4858808612745609); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.3263646089659336); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.624924015083188); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.475197923770171); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.4095174535586015); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.298532023817481); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.6571980961446258); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.039206441221876); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.4132121611867285); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.270499325811971); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.45336595739313523); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.6867824116135424); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.7022765621253235); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.1249461618651284); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.9937085364758076); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.6412937248250055); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.358326624910292); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.039956174322708); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.628403840402547); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.6528333884406394); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.937136833600025); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.527296197718274); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.6413417190392505); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, -0.08195074167089356); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.3628297238614366); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.7599150333748441); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.1361360232674942); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.212062968819847); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.3822348545487428); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, -0.13579937948394072); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.8488933393599725); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.2162459263289533); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.2862737883453494); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.6243791011658235); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.274712267174691); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.5944942848767543); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.3923043460815268); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.2248495289173347); (date, <=, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.8355167478370822); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.3910855288913306); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.0825018395078176); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.6012164373204985); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.152788973204641); (date, <=, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.6952028558098644); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.798560633198447); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.502316746563863); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.4075247126181889); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.8707733605183736); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.0922631892517685); (date, <=, Thu Mar 24 17:40:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.3636348704689056); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.9883964656775235); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.1953995494567424); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.204800059407389); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.6971530282479863); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.755045790488829); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.258845747306772); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.32511005750571975); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.2539117766988697); (date, <=, Thu Mar 24 17:38:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.6388722797586333); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.3698004283691301); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.2689705008990373); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.5933317413586723); (date, <=, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.1459222738341728); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.5494439293684943); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.046081760797294535); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.6676977619237485); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.4577806054763536); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.2517300183318518); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.9219714210358765); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.6311153399621441); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.0267284095368763); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.053232192753963); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.014814241302835818); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.02971430361157); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.5108546554849713); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.5299013956857697); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.07794211039319698); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.5339157634756626); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.963295374549189); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, -0.18584744023017397); (date, <=, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.0901815544106235); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.384167693793217); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.447323374030679); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.313320189065576); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.112794136513135); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.9987159247603437); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.355622633463116); (date, <=, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.9197136073266616); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.6256772194013194); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.255697145270466); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.4877542966754); (date, <=, Thu Mar 24 17:49:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.6432567470158261); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.4102480242104227); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.5821244901316787); (date, <=, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.7145604154320515); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.15000739523665452); (date, <=, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.9840442037187573); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.189179291406351); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, -0.3379537893362592); (date, <=, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.363732414565671); (date, <=, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.5871294098445308); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.4966351685589014); (date, <=, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.10014639335864572); (date, <=, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.7231510702798531); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.596161057017259); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.2892076478082117); (date, <=, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.2537042805908603); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.8744642817608934); (date, <=, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.23218547114323584); (date, <=, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.054157396041092376); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.983977027186649); (date, <=, Thu Mar 24 17:28:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.1873471651374246); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.22750957930591742); (date, <=, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.562569452177876); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.1290305085102066); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.6727151279800507); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.33517624395952783); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.8863927925949167); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.620499665661639); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.7422582285506136); (date, <=, Thu Mar 24 17:52:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.267500027669563); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.8695383391041376); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.26236126367898205); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.21700740957225673); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.645501292941321); (date, <=, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.2341252073018203); (date, <=, Thu Mar 24 17:46:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.6046052363656482); (date, <=, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.334892519826803); (date, <=, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 2.1529347099031972); (date, <=, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.8923033699737397); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.7809869446057323); (date, <=, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.566043276815096); (date, <=, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.7421184666645275); (date, <=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.889994081549931); (date, <=, Thu Mar 24 17:25:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.275406540217074); (date, <=, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.6076931695308225); (date, >, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.9479453541552942); (date, >=, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.3213566297941304); (date, <, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.3358838355700366); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.45108767236193525); (date, >, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.37901189533160196); (date, >, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.581825154710815); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.26858328148477817); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 4.30902973300835); (date, >, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.316586230317374); (date, <, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.21315675094043662); (date, >, Thu Mar 24 17:02:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.5068936292410604); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.447740780384396); (date, >=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.6029683038251363); (date, >=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.016083595086691105); (date, >, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.132177920047848); (date, !=, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.858783832189994); (date, <, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.8756846623658774); (date, !=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.1748915050798585); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.6334813839545053); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.7465628222881664); (date, >, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.6229188353970203); (date, <, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.6035239149738314); (date, <, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.9532247038370163); (date, >, Thu Mar 24 17:04:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.1342272546469507); (date, <, Thu Mar 24 17:39:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.5685937598728463); (date, !=, Thu Mar 24 17:08:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.974657455318683); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.30470556553325245); (date, !=, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.56968750154052); (date, >, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.32260386011165565); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.881606325620599); (date, >=, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.3850942208045471); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, -0.30611427033888994); (date, >, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.9528350428647006); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.5478788060083941); (date, !=, Thu Mar 24 17:14:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.3445334331638414); (date, <, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.08547070748382612); (date, >, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.0308196363516275); (date, >=, Thu Mar 24 17:04:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -0.02925268965045369); (date, >, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.497937055245701); (date, <, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Google); (variation, >, -4.149971041744749E-4); (date, <, Thu Mar 24 17:29:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 3.3521371050199207); (date, >=, Thu Mar 24 17:02:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.523284223002411); (date, >=, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.02113359747261434); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.1636072007421085); (date, <, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.9460029982604072); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.5439782727809175); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.477108850640186); (date, >=, Thu Mar 24 17:03:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.3393732101765745); (date, >=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.485881944010007); (date, >, Thu Mar 24 17:06:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.9442635759079652); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 3.83127904749208); (date, >=, Thu Mar 24 17:23:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.1996587137592947); (date, !=, Thu Mar 24 16:58:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.1644139412472092); (date, !=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.392079629464602); (date, >=, Thu Mar 24 17:04:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.8369597318039443); (date, >=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.5665166552868888); (date, >, Thu Mar 24 17:04:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 4.2414626873786965); (date, !=, Thu Mar 24 16:59:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 3.5439229661622536); (date, !=, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.163494222045986); (date, !=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.3104400044039952); (date, !=, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.413671943823026); (date, <, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.2587627539003958); (date, >=, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.8698711692660379); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.692262434612811); (date, >, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 0.6675629671631276); (date, !=, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.09533944984664444); (date, !=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 0.5260768569342389); (date, <, Thu Mar 24 17:41:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.5442074487097797); (date, !=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Apple); (variation, >, 1.8959051171466004); (date, !=, Thu Mar 24 17:10:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 1.7129691860654503); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 2.492922680985021); (date, >=, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, !=, Google); (variation, >, 4.212564530222103); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 1.2288655753836175); (date, !=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 7.1246709485229065); (date, !=, Thu Mar 24 17:01:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 9.170582054788952); (date, !=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 2.2924695724693374); (date, !=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 3.617071045357182); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, -0.32469605504984766); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 3.0184867081546995); (date, >, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, -0.3302493451459716); (date, <, Thu Mar 24 17:27:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 7.1031051221379915); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:50:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:34:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 1.6763476164417677); (date, >=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 3.0150001411361664); (date, <, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:48:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 8.492084464788661); (date, !=, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 0.907581500683837); (date, !=, Thu Mar 24 17:01:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 6.806575909513988); (date, >, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 5.479956717600633); (date, <, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 7.684310272982948); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 9.06243316282518); (date, >=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 0.3321834128058718); (date, >=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 4.0652374747106075); (date, >=, Thu Mar 24 16:58:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:04:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 2.751245833900793); (date, >=, Thu Mar 24 17:10:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 7.157441934540794); (date, <, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 4.565236023737266); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, 0.2708852843458658); (date, >, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 6.749562740264166); (date, >=, Thu Mar 24 17:10:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 9.288529061120652); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, 3.9345844049502885); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:31:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 4.3424083381251535); (date, >, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 5.2803633042588975); (date, >, Thu Mar 24 17:08:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 4.240489278367487); (date, >=, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, !=, Apple); (variation, <, 9.084877863162216); (date, >, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 7.487005114027528); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 8.251597426130829); (date, >=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 7.6844048100981395); (date, !=, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 1.2927144574597618); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:21:20 EET 2022); }
+{ (company, !=, Apple); (variation, <, 5.507119869731822); (date, !=, Thu Mar 24 16:59:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 9.393765925323276); (date, >, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 5.669269121443028); (date, >=, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 3.138732837524568); (date, !=, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:21:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 3.710468524610151); (date, >=, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 1.490593838729462); (date, >=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 7.532933400899113); (date, >, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 1.7379194028488327); (date, !=, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 4.021717123589317); (date, <, Thu Mar 24 17:45:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 1.2799616990615563); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 7.346420033344244); (date, >, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 4.532728152988703); (date, !=, Thu Mar 24 17:03:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, <, 7.455370538397231); (date, <, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 8.351554992267827); (date, >=, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 2.272325250390883); (date, !=, Thu Mar 24 17:17:20 EET 2022); }
+{ (company, !=, Apple); (variation, <, 8.141781533174825); (date, !=, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 9.47480676688618); (date, >=, Thu Mar 24 17:04:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 0.6655951215803957); (date, >, Thu Mar 24 17:12:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 1.994579244755002); (date, !=, Thu Mar 24 17:21:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 4.252482904294785); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 1.9412763444657326); (date, <, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:02:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 7.919396949111044); (date, !=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 4.519802883270088); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 0.7596264531463572); (date, !=, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, !=, Google); (variation, <, 7.334521400331555); (date, >, Thu Mar 24 17:23:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 3.1191218355399997); (date, !=, Thu Mar 24 17:02:20 EET 2022); }
+{ (company, !=, Google); (variation, <, 6.883725639763414); (date, !=, Thu Mar 24 16:59:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 8.258919469726068); (date, >=, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:01:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 4.50493459379972); (date, <, Thu Mar 24 17:44:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:00:20 EET 2022); }
+{ (company, !=, UIPath); (variation, !=, 1.7646928376706272); (date, >, Thu Mar 24 17:10:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, -0.1343328207007124); (date, >, Thu Mar 24 16:55:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 4.914637177691962); (date, <, Thu Mar 24 17:51:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 3.6522436772425886); (date, <, Thu Mar 24 17:53:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 7.963675870486018); (date, >=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 2.6685917690345056); (date, >, Thu Mar 24 17:05:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 3.486752293229296); (date, >=, Thu Mar 24 17:08:20 EET 2022); }
+{ (company, !=, Google); (variation, <, 8.35518989909649); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 8.593998097621846); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, 4.139201839739095); (date, !=, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 5.936510757328016); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:08:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, 3.4197899914718484); (date, <, Thu Mar 24 17:26:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 8.210591250142276); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, <, 9.423782110692356); (date, >=, Thu Mar 24 16:56:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 6.061421566768061); (date, <, Thu Mar 24 17:43:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, -0.33173893789772535); (date, !=, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 0.16637687983363936); (date, <, Thu Mar 24 17:32:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 6.764892195747513); (date, <, Thu Mar 24 17:35:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, 1.3189705582458644); (date, !=, Thu Mar 24 17:07:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 2.2529110982251743); (date, >=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 6.443260789300576); (date, <, Thu Mar 24 17:30:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 6.4317344676564465); (date, >=, Thu Mar 24 17:15:20 EET 2022); }
+{ (company, !=, Google); (variation, <, 4.789096597144318); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 9.373074777297534); (date, <, Thu Mar 24 17:42:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 1.612376681211881); (date, <, Thu Mar 24 17:47:20 EET 2022); }
+{ (company, !=, Google); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <=, 7.287663647644267); (date, >, Thu Mar 24 17:20:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 2.4454662278454977); (date, >=, Thu Mar 24 17:12:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 8.101346059325152); (date, >=, Thu Mar 24 17:11:20 EET 2022); }
+{ (company, !=, Google); (variation, !=, 2.116948915596647); (date, >, Thu Mar 24 16:58:20 EET 2022); }
+{ (company, !=, Google); (variation, <=, 9.597538551659051); (date, >, Thu Mar 24 17:18:20 EET 2022); }
+{ (company, !=, Apple); (variation, <=, 5.9795493130068875); (date, !=, Thu Mar 24 17:22:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 0.34244106010244213); (date, >, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, !=, Apple); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, UIPath); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 3.6481623604201605); (date, >, Thu Mar 24 17:16:20 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 8.554549999388625); (date, <, Thu Mar 24 17:37:20 EET 2022); }
+{ (company, !=, UIPath); (variation, >=, 3.1735116987946252); (date, !=, Thu Mar 24 16:58:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, -0.07886903568630022); (date, >, Thu Mar 24 17:09:20 EET 2022); }
+{ (company, !=, Apple); (variation, !=, 1.4191754416474986); (date, !=, Thu Mar 24 17:06:20 EET 2022); }
+{ (company, !=, Google); (variation, >=, 2.647038553168319); (date, >, Thu Mar 24 16:57:20 EET 2022); }
+{ (company, !=, Apple); (variation, >=, 0.5083661639900807); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Google); (variation, <, 7.7820783481467455); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (company, !=, Apple); (variation, <, 6.687567703406509); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (value, !=, -0.5250537784248732); (variation, <=, 7.057984672489882); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.557595874549738); (variation, <, 8.439138075620972); (date, >, Thu Mar 24 17:07:20 EET 2022); }
+{ (value, !=, -1.1769027845141324); (variation, <, 9.135740560919114); (date, !=, Thu Mar 24 17:21:20 EET 2022); }
+{ (value, !=, -0.9851531401732796); (variation, !=, -0.18981155195247368); (date, >, Thu Mar 24 16:55:20 EET 2022); }
+{ (value, !=, -1.5753544092880105); (variation, <, 9.22350380839724); (date, >=, Thu Mar 24 17:14:20 EET 2022); }
+{ (value, !=, -0.4267606935693964); (variation, !=, 2.4993120614075703); (date, !=, Thu Mar 24 17:00:20 EET 2022); }
+{ (value, !=, 1.7607373744434915); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:04:20 EET 2022); }
+{ (value, !=, -0.3543114519839796); (variation, >=, 4.247073350949834); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -1.192868819631478); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:45:20 EET 2022); }
+{ (value, !=, -2.077190300310388); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.6368323557859985); (variation, <=, 6.359073159263732); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -2.700550836009765); (variation, <=, 8.2263566713581); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (value, !=, 2.1905905511019483); (variation, !=, 3.0201347738614936); (date, !=, Thu Mar 24 17:02:20 EET 2022); }
+{ (value, !=, 1.3955508445873757); (variation, >=, 1.910370313332685); (date, >=, Thu Mar 24 16:58:20 EET 2022); }
+{ (value, !=, -0.8876500327600629); (variation, <, 5.183487471295023); (date, >=, Thu Mar 24 17:10:20 EET 2022); }
+{ (value, !=, 0.6938101601767337); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:06:20 EET 2022); }
+{ (value, !=, -1.858850250668346); (variation, <=, 7.487219945378432); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (value, !=, 1.5224914188544758); (variation, <=, 5.158123582201426); (date, !=, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, 1.1634068557919237); (variation, <, 7.977393737657032); (date, !=, Thu Mar 24 17:13:20 EET 2022); }
+{ (value, !=, 2.141960825025785); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:32:20 EET 2022); }
+{ (value, !=, 1.2648807796695767); (variation, >=, 1.8172017072211664); (date, !=, Thu Mar 24 17:18:20 EET 2022); }
+{ (value, !=, 0.7509718603565341); (variation, >=, -0.21120252864884126); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.0900494930774034); (variation, >=, -0.06559690429850473); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.9653272702632893); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:22:20 EET 2022); }
+{ (value, !=, -0.16767194860258883); (variation, >=, 3.5249428805377176); (date, <, Thu Mar 24 17:41:20 EET 2022); }
+{ (value, !=, -0.9823819692619407); (variation, >=, 2.7085431657323236); (date, !=, Thu Mar 24 17:02:20 EET 2022); }
+{ (value, !=, -1.7170928187812278); (variation, <=, 8.426606112254511); (date, !=, Thu Mar 24 16:57:20 EET 2022); }
+{ (value, !=, -1.8730508066324019); (variation, !=, 2.6335971850185493); (date, >=, Thu Mar 24 17:18:20 EET 2022); }
+{ (value, !=, 1.5619914110651805); (variation, !=, 4.281211920649562); (date, >=, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -2.20063148372021); (variation, !=, 2.788068666938952); (date, <, Thu Mar 24 17:53:20 EET 2022); }
+{ (value, !=, -0.5481233889375834); (variation, <=, 7.088038508809641); (date, <, Thu Mar 24 17:30:20 EET 2022); }
+{ (value, !=, 1.9298126303897336); (variation, <, 5.019323593484123); (date, !=, Thu Mar 24 17:18:20 EET 2022); }
+{ (value, !=, -0.81020201326321); (variation, <=, 7.17674492010622); (date, >, Thu Mar 24 17:23:20 EET 2022); }
+{ (value, !=, 0.4349024615971284); (variation, >=, 0.34553875754646146); (date, !=, Thu Mar 24 16:59:20 EET 2022); }
+{ (value, !=, -0.7743075013009135); (variation, !=, -0.24233174156061477); (date, >, Thu Mar 24 17:20:20 EET 2022); }
+{ (value, !=, 2.1936278961162095); (variation, <=, 8.078115912508572); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -2.271246676128672); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, 1.2654280184890596); (variation, <=, 6.177927488864633); (date, >, Thu Mar 24 17:11:20 EET 2022); }
+{ (value, !=, -2.70195971419533); (variation, >=, 2.54400658968208); (date, !=, Thu Mar 24 17:14:20 EET 2022); }
+{ (value, !=, 1.0592478745684868); (variation, !=, 3.3729121078246926); (date, !=, Thu Mar 24 17:20:20 EET 2022); }
+{ (value, !=, -0.6733152169415626); (variation, >=, 0.6388071883918123); (date, <, Thu Mar 24 17:26:20 EET 2022); }
+{ (value, !=, 2.1794643603414943); (variation, <=, 7.558919103896595); (date, <, Thu Mar 24 17:39:20 EET 2022); }
+{ (value, !=, 1.5047408373016098); (variation, <, 9.38210580658911); (date, <, Thu Mar 24 17:48:20 EET 2022); }
+{ (value, !=, 1.0372252905238541); (variation, !=, 2.7219883837643826); (date, >, Thu Mar 24 17:09:20 EET 2022); }
+{ (value, !=, -1.5797290527215182); (variation, <=, 8.151407724328646); (date, >, Thu Mar 24 17:06:20 EET 2022); }
+{ (value, !=, -1.189014932943076); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:02:20 EET 2022); }
+{ (value, !=, 1.2816211034868341); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:15:20 EET 2022); }
+{ (value, !=, 0.053351439689079516); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, 0.6603986251353053); (variation, <, 8.31399575736436); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.7859073428575876); (variation, <=, 9.50377886192734); (date, >=, Thu Mar 24 17:23:20 EET 2022); }
+{ (value, !=, -0.5942278787226773); (variation, <=, 5.986073553761145); (date, >, Thu Mar 24 17:14:20 EET 2022); }
+{ (value, !=, -2.0291370973507847); (variation, <=, 9.454064635367022); (date, >=, Thu Mar 24 16:59:20 EET 2022); }
+{ (value, !=, -1.462705432345115); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:08:20 EET 2022); }
+{ (value, !=, 1.2702524993187003); (variation, <=, 9.341918712218046); (date, >, Thu Mar 24 17:07:20 EET 2022); }
+{ (value, !=, 0.6984333031625236); (variation, >=, 3.5768710048197665); (date, <, Thu Mar 24 17:28:20 EET 2022); }
+{ (value, !=, 0.9957999266662763); (variation, <, 5.928406222479042); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.8061463092964067); (variation, <, 8.403998536785842); (date, <, Thu Mar 24 17:28:20 EET 2022); }
+{ (value, !=, 0.2960396857657561); (variation, >=, 2.156452666412231); (date, >, Thu Mar 24 17:15:20 EET 2022); }
+{ (value, !=, 1.3847431129746623); (variation, >=, 0.5797123788525615); (date, >, Thu Mar 24 17:23:20 EET 2022); }
+{ (value, !=, 0.19220346305784286); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 16:56:20 EET 2022); }
+{ (value, !=, 1.792114838923322); (variation, <=, 5.860940006603304); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, 1.3603382238533812); (variation, >=, 0.49329585885756533); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (value, !=, -0.7458381258750104); (variation, =, 4.656339103899384); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.22189043012300758); (variation, !=, 2.2474054689212335); (date, >=, Thu Mar 24 17:18:20 EET 2022); }
+{ (value, !=, 1.5109323988871934); (variation, !=, 0.08984928085201371); (date, !=, Thu Mar 24 17:06:20 EET 2022); }
+{ (value, !=, 1.0299813002616238); (variation, <, 6.873321865020838); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (value, !=, -2.644501491117408); (variation, !=, 1.323023965535799); (date, >, Thu Mar 24 16:59:20 EET 2022); }
+{ (value, !=, 0.7016247867996437); (variation, <, 7.266881271542825); (date, >=, Thu Mar 24 17:01:20 EET 2022); }
+{ (value, !=, 1.1125520152597919); (variation, !=, 0.5649938910459928); (date, >=, Thu Mar 24 17:21:20 EET 2022); }
+{ (value, !=, 0.6019311190757901); (variation, >=, 2.601303880825762); (date, >=, Thu Mar 24 16:58:20 EET 2022); }
+{ (value, !=, -2.4978365924975074); (variation, <=, 9.61153531983113); (date, <, Thu Mar 24 17:46:20 EET 2022); }
+{ (value, !=, -0.9812367288005697); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 16:57:20 EET 2022); }
+{ (value, !=, -1.6979839952326024); (variation, !=, 3.901561313359723); (date, >, Thu Mar 24 17:14:20 EET 2022); }
+{ (value, !=, -2.0117258736461396); (variation, !=, -0.2641464843910395); (date, !=, Thu Mar 24 16:58:20 EET 2022); }
+{ (value, !=, -0.4934795673685528); (variation, !=, 1.1950076809325858); (date, <, Thu Mar 24 17:31:20 EET 2022); }
+{ (value, !=, -2.1088218942769563); (variation, <, 8.016247783521994); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -2.2038906425886067); (variation, >=, 3.5864099047963833); (date, >, Thu Mar 24 16:58:20 EET 2022); }
+{ (value, !=, -2.542461522553636); (variation, >=, 4.177653964426791); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -2.112973261159331); (variation, <, 7.586289919599921); (date, >=, Thu Mar 24 17:03:20 EET 2022); }
+{ (value, !=, 1.1024393760615074); (variation, <=, 7.437350972332993); (date, >=, Thu Mar 24 17:14:20 EET 2022); }
+{ (value, !=, 1.6579033986963587); (variation, <=, 9.294467472357596); (date, <, Thu Mar 24 17:41:20 EET 2022); }
+{ (value, !=, 1.152144712766718); (variation, <, 5.4900345312078045); (date, !=, Thu Mar 24 17:11:20 EET 2022); }
+{ (value, !=, -0.4017757986913031); (variation, <=, 6.428830598972148); (date, <, Thu Mar 24 17:29:20 EET 2022); }
+{ (value, !=, -0.23391100354453043); (variation, <=, 6.670967269467607); (date, <, Thu Mar 24 17:31:20 EET 2022); }
+{ (value, !=, -0.6411396315881213); (variation, <, 6.690697097612778); (date, >=, Thu Mar 24 17:13:20 EET 2022); }
+{ (value, !=, -1.8928413269323556); (variation, <, 8.127493597972432); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (value, !=, -0.5284111678613752); (variation, >=, 2.08710289095661); (date, <, Thu Mar 24 17:45:20 EET 2022); }
+{ (value, !=, -2.462651347494246); (variation, >=, 2.4542823150733635); (date, !=, Thu Mar 24 17:03:20 EET 2022); }
+{ (value, !=, 0.6229351915287833); (variation, =, 4.656339103899384); (date, >, Thu Mar 24 17:19:20 EET 2022); }
+{ (value, !=, 0.679940793372227); (variation, <=, 5.110647352835322); (date, !=, Thu Mar 24 17:07:20 EET 2022); }
+{ (value, !=, -1.1852569821180552); (variation, >=, 1.9295035081580862); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (value, !=, -1.5669426814156764); (variation, !=, -0.33670152529772057); (date, >, Thu Mar 24 16:57:20 EET 2022); }
+{ (value, !=, -0.3538584221256018); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:48:20 EET 2022); }
+{ (value, !=, 0.25377115035472153); (variation, <, 8.12529989168804); (date, !=, Thu Mar 24 17:19:20 EET 2022); }
+{ (value, !=, -1.9223985884269732); (variation, >=, 1.7746744980554476); (date, >=, Thu Mar 24 17:02:20 EET 2022); }
+{ (value, !=, -0.47881244846188675); (variation, >=, 2.9441340962313554); (date, <, Thu Mar 24 17:47:20 EET 2022); }
+{ (value, !=, -2.369352862104222); (variation, !=, -0.1354577037901219); (date, >, Thu Mar 24 17:14:20 EET 2022); }
+{ (value, !=, -2.5489195707877794); (variation, <=, 7.7161074790859505); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (value, !=, 0.526649800691851); (variation, =, 4.656339103899384); (date, >=, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, !=, -0.957884318031208); (variation, <, 5.937686126279825); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, >=, -2.653028317781164); (variation, <=, 8.28809124245258); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, <=, 3.1443136552035074); (variation, >=, 3.822047353848866); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, <=, 6.754228283906512); (variation, <, 6.901079904898097); (date, >=, Thu Mar 24 17:10:20 EET 2022); }
+{ (value, >=, 0.9968292784569661); (variation, <=, 7.0183049739475045); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, <=, 5.808805977346033); (variation, <=, 5.044292788803725); (date, <, Thu Mar 24 17:33:20 EET 2022); }
+{ (value, =, 2.238528147025063); (variation, !=, 0.7756338331352524); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, <, 3.8131088705269374); (variation, =, 4.656339103899384); (date, <, Thu Mar 24 17:27:20 EET 2022); }
+{ (value, <=, 2.4778851299132163); (variation, !=, 4.434320538641695); (date, <, Thu Mar 24 17:32:20 EET 2022); }
+{ (value, =, 2.238528147025063); (variation, !=, 1.9576046750535485); (date, !=, Thu Mar 24 17:23:20 EET 2022); }
+{ (value, <=, 3.1921596621122106); (variation, =, 4.656339103899384); (date, !=, Thu Mar 24 17:08:20 EET 2022); }
+{ (value, >=, -0.7880806032060979); (variation, !=, 2.193638900103365); (date, >=, Thu Mar 24 17:17:20 EET 2022); }
+{ (value, >, 1.6159122466108222); (variation, <, 4.699367126447042); (date, >=, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, >, -1.9993509984183628); (variation, <, 8.836376574773222); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, >=, 1.4113153242671561); (variation, <, 5.742130897797357); (date, >, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, <=, 6.9543631565982515); (variation, >=, 3.699590776285196); (date, !=, Thu Mar 24 16:55:20 EET 2022); }
+{ (value, <, 4.556566157789189); (variation, <, 5.979739419516605); (date, >=, Thu Mar 24 16:56:20 EET 2022); }
+{ (value, <=, 2.2627336369579676); (variation, >=, 2.502536027846747); (date, >=, Thu Mar 24 17:07:20 EET 2022); }
+{ (value, <=, 5.6042323313087365); (variation, >=, 2.5705695309291325); (date, <, Thu Mar 24 17:53:20 EET 2022); }
+{ (value, =, 2.238528147025063); (variation, !=, 4.372192020580427); (date, >=, Thu Mar 24 17:23:20 EET 2022); }
+{ (value, >=, -1.0469048493190338); (variation, >=, 0.08317443035068361); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, =, 2.238528147025063); (variation, <=, 6.253831247798685); (date, >=, Thu Mar 24 17:09:20 EET 2022); }
+{ (value, <, 5.236449914494925); (variation, !=, 0.425314135809999); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, <=, 2.4276673951073295); (variation, !=, 3.2742593602073007); (date, =, Thu Mar 24 17:24:20 EET 2022); }
+{ (value, >=, 0.24289236989950136); (variation, <=, 5.400687520667857); (date, <, Thu Mar 24 17:36:20 EET 2022); }
+{ (value, =, 2.238528147025063); (variation, !=, 1.8354343441946206); (date, <, Thu Mar 24 17:32:20 EET 2022); }
+{ (value, <, 2.8651616919626237); (variation, <=, 4.728159070500504); (date, <, Thu Mar 24 17:47:20 EET 2022); }
+{ (value, =, 2.238528147025063); (variation, <=, 4.967165647842819); (date, <, Thu Mar 24 17:26:20 EET 2022); }
+{ (value, <, 2.904721121893901); (variation, >=, 3.0544256667443976); (date, !=, Thu Mar 24 17:23:20 EET 2022); }

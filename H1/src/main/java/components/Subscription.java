@@ -15,23 +15,6 @@ public class Subscription {
 
     private Field date;
 
-    public Field get(String fieldName) {
-        switch (fieldName){
-            case "company":
-                return company;
-            case "value":
-                return value;
-            case "drop":
-                return drop;
-            case "variation":
-                return variation;
-            case "calendar":
-                return date;
-        }
-
-        return null;
-    }
-
     public Field getCompany() {
         return company;
     }

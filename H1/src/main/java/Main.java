@@ -4,17 +4,15 @@ import components.Publication;
 import components.Subscription;
 import javafx.util.Pair;
 
-import java.io.File;
-import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintStream;
 import java.util.*;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-        // --- date de intrare
-        int subscriptionsSize = 10;
-        int publicationsSize = 5;
+        // --- input data
+        int subscriptionsSize = 1000;
+        int publicationsSize = 2;
 
         double companyPercent = 87.21;
         double valuePercent = 20.00;
@@ -33,7 +31,7 @@ public class Main {
         double dateOperatorPercent = 50.00;
         String dateOperator = "<=";
 
-        // date de intrare ---
+        // input data ---
 
         int companyQuantityResult = 0, valueQuantityResult = 0, dropQuantityResult = 0, variationQuantityResult = 0, dateQuantityResult = 0;
         double companyPercentResult, valuePercentResult, dropPercentResult, variationPercentResult, datePercentResult;
@@ -132,10 +130,9 @@ public class Main {
 
         PrintStream publicationFileStream = new PrintStream("publications.txt");
         for(Publication publication : publications) {
-            StringBuilder sb = new StringBuilder();
-            sb.append("{(company,\"").append(publication.getCompany()).append("\");(value,").append(publication.getValue())
-                    .append(");(drop,").append(publication.getDrop()).append(");(variation,").append(publication.getVariation())
-                    .append(");(date,").append(publication.getDate()).append(")}");
+            String sb = "{(company,\"" + publication.getCompany() + "\");(value," + publication.getValue() +
+                    ");(drop," + publication.getDrop() + ");(variation," + publication.getVariation() +
+                    ");(date," + publication.getDate() + ")}";
 
             publicationFileStream.println(sb);
         }

@@ -18,16 +18,4 @@ public class Generator {
         dates = Arrays.asList(Date.from(Instant.now()), Date.from(Instant.now().plusSeconds(60)), Date.from(Instant.now().plusSeconds(120)));
         random = new Random();
     }
-
-    public List<String> getCompanies() {
-        return companies;
-    }
-
-    public List<Date> getDates() {
-        return dates;
-    }
-
-    public Random getRandom() {
-        return random;
-    }
 }

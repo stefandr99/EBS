@@ -5,15 +5,12 @@ import components.Subscription;
 import items.Field;
 import javafx.util.Pair;
 
-import java.time.Instant;
 import java.util.*;
 
 public class SubscriptionGenerator extends Generator {
     private int index;
-    private List<String> operators;
-    private List<String> equalityOperators;
     private final List<String> fields;
-    private List<Subscription> subscriptions;
+    private final List<Subscription> subscriptions;
     private final int size;
     private Field currentField;
 
@@ -35,16 +32,20 @@ public class SubscriptionGenerator extends Generator {
             String currentOperator;
             String specifiedOperator = "=";
             int operatorQuantity = 0;
-            operators = new ArrayList<>(Arrays.asList("=", "!=", "<", "<=", ">", ">="));
-            equalityOperators = new ArrayList<>(Arrays.asList("=", "!="));
+
+            List<String> operators = new ArrayList<>(Arrays.asList("=", "!=", "<", "<=", ">", ">="));
+            List<String> equalityOperators = new ArrayList<>(Arrays.asList("=", "!="));
+
             int quantity;
-            if(fieldFrequency.get(field) != null)
+            if(fieldFrequency.get(field) != null) // if quantity is not sent, a default 50% is applied
                 quantity = (int) Math.round(size * fieldFrequency.get(field) / 100.00);
             else quantity = 50;
 
+            // check if exists operation percent for current field
             if(operatorFrequency.get(field) != null) {
                 specifiedOperator = operatorFrequency.get(field).getKey();
 
+                // remove specified operator from list in order not to be included when needed to be set
                 if(field.equals("company"))
                     equalityOperators.remove(specifiedOperator);
                 else
@@ -55,8 +56,10 @@ public class SubscriptionGenerator extends Generator {
             }
 
             for (int j = 0; j < quantity; j++) {
+                // index % size because we don't want to get out of bounds, so if the percents sum exceeds 100, set from the beginning again
                 Subscription subscription = subscriptions.get(index % size);
 
+                // if operator quantity is still > 0, then the operator sent should be selected, else one from the remaining
                 if (operatorQuantity > 0) {
                     currentOperator = specifiedOperator;
                 }
@@ -67,6 +70,8 @@ public class SubscriptionGenerator extends Generator {
                         currentOperator = operators.get(random.nextInt(operators.size()));
                 }
 
+                // get current object based on the current field
+                // set current object value from their specific domain (strings for company, double for nums, date for date)
                 switch (field) {
                     case "company":
                         subscription.setCompany(new Field());

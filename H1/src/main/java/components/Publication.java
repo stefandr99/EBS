@@ -3,15 +3,15 @@ package components;
 import java.util.Date;
 
 public class Publication {
-    private String Company;
+    private final String Company;
 
-    private double value;
+    private final double value;
 
-    private double drop;
+    private final double drop;
 
-    private double variation;
+    private final double variation;
 
-    private Date date;
+    private final Date date;
 
     public Publication(String company, double value, double drop, double variation, Date date) {
         Company = company;
@@ -25,39 +25,19 @@ public class Publication {
         return Company;
     }
 
-    public void setCompany(String company) {
-        Company = company;
-    }
-
     public double getValue() {
         return value;
-    }
-
-    public void setValue(double value) {
-        this.value = value;
     }
 
     public double getDrop() {
         return drop;
     }
 
-    public void setDrop(double drop) {
-        this.drop = drop;
-    }
-
     public double getVariation() {
         return variation;
     }
 
-    public void setVariation(double variation) {
-        this.variation = variation;
-    }
-
     public Date getDate() {
         return date;
-    }
-
-    public void setDate(Date date) {
-        this.date = date;
     }
 }
