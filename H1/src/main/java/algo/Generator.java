@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Random;
 
 public class Generator {
-    final List<String> companies;
+    List<String> companies;
 
     final List<Date> dates;
 

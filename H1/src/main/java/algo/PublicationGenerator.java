@@ -12,17 +12,17 @@ public class PublicationGenerator extends Generator{
         super();
     }
 
-    public Publication generate(Pair<Integer, Integer> valueLimits, Pair<Integer, Integer> dropLimits, Pair<Integer, Integer> variationLimits) {
+    public Publication generate(Pair<Double, Double> valueLimits, Pair<Double, Double> dropLimits, Pair<Double, Double> variationLimits) {
         String company = companies.get(random.nextInt(companies.size()));
-        int value = random.ints(valueLimits.getKey(), valueLimits.getValue()).findFirst().getAsInt();
-        int drop = random.ints(dropLimits.getKey(), dropLimits.getValue()).findFirst().getAsInt();
-        int variation = random.ints(variationLimits.getKey(), variationLimits.getValue()).findFirst().getAsInt();
+        double value = random.doubles(valueLimits.getKey(), valueLimits.getValue()).findFirst().getAsDouble();
+        double drop = random.doubles(dropLimits.getKey(), dropLimits.getValue()).findFirst().getAsDouble();
+        double variation = random.doubles(variationLimits.getKey(), variationLimits.getValue()).findFirst().getAsDouble();
         Date date = dates.get(random.nextInt(dates.size()));
 
         return new Publication(company, value, drop, variation, date);
     }
 
-    public List<Publication> generate(int size, Pair<Integer, Integer> valueLimits, Pair<Integer, Integer> dropLimits, Pair<Integer, Integer> variationLimits) {
+    public List<Publication> generate(int size, Pair<Double, Double> valueLimits, Pair<Double, Double> dropLimits, Pair<Double, Double> variationLimits) {
         List<Publication> publications = new ArrayList<>();
 
         for(int i = 0; i < size; i++) {

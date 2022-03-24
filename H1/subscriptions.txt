@@ -1,0 +1,10 @@
+{ (company, =, Google); (value, <, 6.499089053825571); (variation, >=, 3.1088165001613213); (date, >=, Thu Mar 24 17:09:51 EET 2022); }
+{ (company, =, Google); (drop, >, -2.7291641254417787); (variation, <, 5.191392280457787); }
+{ (company, =, Google); (drop, =, 0.4353104626891293); (date, <=, Thu Mar 24 17:27:51 EET 2022); }
+{ (company, =, Google); (variation, >, 0.8078031913901751); (date, <=, Thu Mar 24 17:13:51 EET 2022); }
+{ (company, =, Google); (variation, >, 0.8723588198821361); (date, <=, Thu Mar 24 17:18:51 EET 2022); }
+{ (company, !=, UIPath); (variation, >, 0.46849771093716663); (date, <=, Thu Mar 24 17:33:51 EET 2022); }
+{ (company, !=, Apple); (variation, >, 2.906574239871511); (date, <=, Thu Mar 24 17:16:51 EET 2022); }
+{ (company, !=, UIPath); (variation, >, -0.20152287723360374); (date, <, Thu Mar 24 17:29:51 EET 2022); }
+{ (company, !=, UIPath); (variation, <, 6.266324670072058); (date, =, Thu Mar 24 17:09:51 EET 2022); }
+{ (value, !=, -0.49539034550019334); (variation, >=, 0.33577678920819); (date, =, Thu Mar 24 17:09:51 EET 2022); }
